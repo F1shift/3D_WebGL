@@ -5,6 +5,10 @@ var scene;
 var camera;
 var renderer;
 var stats;
+var composer, renderPass, outlinePass;
+var raycaster = new THREE.Raycaster();
+var mouse = new THREE.Vector2();
+var selectedObjects = [];
 
 function init() {
 
@@ -18,16 +22,11 @@ function init() {
     renderer.shadowMap.type = THREE.PCFSoftShadowMap;
     //#endregion
 
-    //#region show FPS
-    stats = new Stats();
-    stats.showPanel(0); // 0: fps, 1: ms, 2: mb, 3+: custom
-    document.body.appendChild(stats.dom);
-    //#endregion
-
     //#region シーンを作成
     scene = new THREE.Scene();
     scene.background = new THREE.Color( 0xf0f0f0 );
-    //scene.background = new THREE.Color( 0x000000 );
+    scene.background = new THREE.Color( 0x000000 );
+    scene.background = new THREE.Color( 0xE0E0E0 );
     //#endregion
 
     //#region カメラを作成
@@ -41,6 +40,41 @@ function init() {
     controls.minDistance = 20;
     controls.maxDistance = 2000;
     controls.enablePan = false;
+    //#endregion
+
+    //#region postprocessing(OutLine effect)
+    composer = new THREE.EffectComposer( renderer );
+
+    renderPass = new THREE.RenderPass( scene, camera );
+    composer.addPass( renderPass );
+
+    outlinePass = new THREE.OutlinePass( new THREE.Vector2( window.innerWidth, window.innerHeight ), scene, camera );
+    outlinePass.renderToScreen = true;
+    outlinePass.visibleEdgeColor.set('#ff6f00');
+    outlinePass.hiddenEdgeColor.set('#ffffff');
+    outlinePass.pulsePeriod = 2;
+    outlinePass.usePatternTexture = true;
+    composer.addPass( outlinePass );
+
+    var onLoad = function (texture) {
+
+        outlinePass.patternTexture = texture;
+        texture.wrapS = THREE.RepeatWrapping;
+        texture.wrapT = THREE.RepeatWrapping;
+
+    };
+
+    var loader = new THREE.TextureLoader();
+
+    //loader.load('examples/textures/wallpaper_grey-white-checkered-squares-512x512.jpg', onLoad);
+    //Read from textureData.js to prevent CROS error.
+    loader.load(greyWhiteCheckered, onLoad);
+    //#endregion
+
+    //#region window.addEventListener
+    window.addEventListener( 'mousemove', onTouchMove );
+    window.addEventListener( 'touchmove', onTouchMove );
+    window.addEventListener('resize', OnResize, false );
     //#endregion
 
     //#region 環境オブジェクト
@@ -87,16 +121,11 @@ function init() {
         var axes = new THREE.AxesHelper( 1000 );
         // axes.position.set( 0, 0, 0 );
         //axes.position.set( -500, - 500, - 500 );
-        scene.add( axes );
+        //scene.add( axes );
         //#endregion
         
     //#endregion
     
-    //デフォルト球体を加入する
-    var defaultMesh = GetPresetMesh(10,20,150, 0, 0, 0);
-    defaultMesh.castShadow = true;
-    scene.add(defaultMesh);
-
     //#region WebSocketコネクションを作る
     var sock = new WebSocket("ws://localhost:8080");
     sock.onopen = function (event) {
@@ -104,16 +133,28 @@ function init() {
     }
     sock.onmessage = SocketOnMessage;
     //#endregion
+    
+    //#region show FPS
+    stats = new Stats();
+    stats.showPanel(0); // 0: fps, 1: ms, 2: mb, 3+: custom
+    document.body.appendChild(stats.dom);
+    //#endregion
+    
+    //#region デフォルト球体を加入する
+    var defaultMesh = GetPresetMesh(50,100,150, 0, 0, 0);
+    defaultMesh.castShadow = true;
+    scene.add(defaultMesh);
+    //#endregion
 
-    //tick();
+    //Animationl0-op;o99-
     requestAnimationFrame(tick);
 }
 
 function render() {
-
+    stats.update();
     // レンダリング
-
-    renderer.render(scene, camera);
+    //renderer.render(scene, camera);
+    composer.render(scene, camera);
 }
 
 function tick() { 
@@ -125,10 +166,7 @@ function tick() {
     }
 
     // レンダリング
-
     render();
-
-    stats.update();
 
     requestAnimationFrame(tick);
 }
@@ -242,7 +280,7 @@ function GetPresetMesh(vres, hres, r, x, y, z)
   }
 
   // Compute normals for shading
-  geometry.computeFaceNormals();
+     geometry.computeFaceNormals();
   ////geometry.computeVertexNormals();
 
   const material = new THREE.MeshStandardMaterial({ color: 0x0000FF });
@@ -250,8 +288,70 @@ function GetPresetMesh(vres, hres, r, x, y, z)
   return mesh;
 }
 
-window.addEventListener('resize', function() {
-    renderer.setSize(window.innerWidth, window.innerHeight);
-    camera.aspect = window.innerWidth / window.innerHeight;
+function addSelectedObject( object ) {
+
+    selectedObjects = [];
+    selectedObjects.push( object );
+
+}
+
+function checkIntersection() {
+
+    raycaster.setFromCamera( mouse, camera );
+
+    var intersects = raycaster.intersectObjects( [ scene ], true );
+
+    if ( intersects.length > 0 ) {
+        for(var i = 0; i < intersects.length; i++)
+        {
+            if (intersects[ i ].object.type == "Mesh")
+            {
+                var selectedObject = intersects[ i ].object;
+                addSelectedObject( selectedObject );
+                outlinePass.selectedObjects = selectedObjects;
+                break;
+            }
+        }
+        
+    } else {
+
+        outlinePass.selectedObjects = [];
+
+    }
+
+}
+
+function onTouchMove( event ) {
+
+    var x, y;
+
+    if ( event.changedTouches ) {
+
+        x = event.changedTouches[ 0 ].pageX;
+        y = event.changedTouches[ 0 ].pageY;
+
+    } else {
+
+        x = event.clientX;
+        y = event.clientY;
+
+    }
+
+    mouse.x = ( x / window.innerWidth ) * 2 - 1;
+    mouse.y = - ( y / window.innerHeight ) * 2 + 1;
+
+    checkIntersection();
+
+}
+
+function OnResize() {
+    var width = window.innerWidth;
+    var height = window.innerHeight;
+
+    renderer.setSize(width, height);
+    composer.setSize( width, height );
+
+    camera.aspect = width / height;
     camera.updateProjectionMatrix();
-  }, false );
+  }
+
