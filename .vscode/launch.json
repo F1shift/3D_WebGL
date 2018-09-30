@@ -9,8 +9,8 @@
             "type": "chrome",
             "request": "launch",
             "name": "Launch Chrome against localhost",
-            "url": "http://localhost",
-            //"url": "http://localhost/examples/webgl_postprocessing_outline.html",
+            //"url": "http://localhost",
+            "url": "file:///C:/Data/GitHub/3D_WebGL/index.html",
             "webRoot": "${workspaceFolder}"
         }
     ]
