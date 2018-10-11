@@ -1,0 +1,520 @@
+[0922/163231.433:INFO:CONSOLE(173)] "THREE.WebGLRenderer", source: https://cdnjs.cloudflare.com/ajax/libs/three.js/88/three.min.js (173)
+[0922/163339.479:INFO:CONSOLE(173)] "THREE.WebGLRenderer", source: https://cdnjs.cloudflare.com/ajax/libs/three.js/88/three.min.js (173)
+[0922/211719.422:WARNING:angle_platform_impl.cc(59)] compileToBinary(228): 
+C:\fakepath(46,8-58): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(54,8-28): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0922/211833.435:WARNING:angle_platform_impl.cc(59)] compileToBinary(228): 
+C:\fakepath(46,8-58): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(54,8-28): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0922/212118.535:WARNING:angle_platform_impl.cc(59)] compileToBinary(228): 
+C:\fakepath(46,8-58): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(54,8-28): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0922/212118.637:WARNING:angle_platform_impl.cc(59)] compileToBinary(228): 
+C:\fakepath(29,8-58): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(37,8-28): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0922/212119.778:WARNING:angle_platform_impl.cc(59)] compileToBinary(228): 
+C:\fakepath(65,10-42): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(87,10-42): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0922/212119.847:WARNING:angle_platform_impl.cc(59)] compileToBinary(228): 
+C:\fakepath(46,8-58): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(54,8-28): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0922/212201.969:WARNING:angle_platform_impl.cc(59)] compileToBinary(228): 
+C:\fakepath(46,8-58): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(54,8-28): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0922/212202.029:WARNING:angle_platform_impl.cc(59)] compileToBinary(228): 
+C:\fakepath(29,8-58): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(37,8-28): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0922/212202.682:INFO:CONSOLE(173)] "THREE.WebGLRenderer", source: https://cdnjs.cloudflare.com/ajax/libs/three.js/88/three.min.js (173)
+[0922/212202.868:WARNING:angle_platform_impl.cc(59)] compileToBinary(228): 
+C:\fakepath(46,8-58): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(54,8-28): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0922/223346.358:WARNING:angle_platform_impl.cc(59)] compileToBinary(228): 
+C:\fakepath(46,8-58): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(54,8-28): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0922/223346.373:WARNING:angle_platform_impl.cc(59)] compileToBinary(228): 
+C:\fakepath(29,8-58): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(37,8-28): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0922/223439.779:WARNING:angle_platform_impl.cc(59)] compileToBinary(228): 
+C:\fakepath(46,8-58): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(54,8-28): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0922/223439.822:WARNING:angle_platform_impl.cc(59)] compileToBinary(228): 
+C:\fakepath(29,8-58): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(37,8-28): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0922/223439.967:INFO:CONSOLE(21934)] "THREE.WebGLRenderer", source: file:///three.js (21934)
+[0922/223440.315:WARNING:angle_platform_impl.cc(59)] compileToBinary(228): 
+C:\fakepath(46,8-58): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(54,8-28): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0922/223743.334:WARNING:angle_platform_impl.cc(59)] compileToBinary(228): 
+C:\fakepath(46,8-58): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(54,8-28): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0922/223743.378:INFO:CONSOLE(21934)] "THREE.WebGLRenderer", source: file:///three.js (21934)
+[0922/223743.380:WARNING:angle_platform_impl.cc(59)] compileToBinary(228): 
+C:\fakepath(29,8-58): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(37,8-28): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0922/223743.740:WARNING:angle_platform_impl.cc(59)] compileToBinary(228): 
+C:\fakepath(46,8-58): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(54,8-28): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0922/230302.194:WARNING:angle_platform_impl.cc(59)] compileToBinary(228): 
+C:\fakepath(29,8-58): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(37,8-28): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0922/230302.415:INFO:CONSOLE(21934)] "THREE.WebGLRenderer", source: file:///three.js (21934)
+[0922/230302.819:WARNING:angle_platform_impl.cc(59)] compileToBinary(228): 
+C:\fakepath(46,8-58): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(54,8-28): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0922/230432.043:WARNING:angle_platform_impl.cc(59)] compileToBinary(228): 
+C:\fakepath(29,8-58): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(37,8-28): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0922/230432.162:INFO:CONSOLE(21934)] "THREE.WebGLRenderer", source: file:///three.js (21934)
+[0922/230432.406:WARNING:angle_platform_impl.cc(59)] compileToBinary(228): 
+C:\fakepath(46,8-58): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(54,8-28): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0922/230729.029:WARNING:angle_platform_impl.cc(59)] compileToBinary(228): 
+C:\fakepath(29,8-58): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(37,8-28): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0922/230729.181:INFO:CONSOLE(21934)] "THREE.WebGLRenderer", source: file:///three.js (21934)
+[0922/233544.782:WARNING:angle_platform_impl.cc(59)] compileToBinary(228): 
+C:\fakepath(29,8-58): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(37,8-28): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0922/233544.907:INFO:CONSOLE(21934)] "THREE.WebGLRenderer", source: file:///three.js (21934)
+[0922/233545.240:WARNING:angle_platform_impl.cc(59)] compileToBinary(228): 
+C:\fakepath(46,8-58): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(54,8-28): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0922/233605.968:WARNING:angle_platform_impl.cc(59)] compileToBinary(228): 
+C:\fakepath(29,8-58): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(37,8-28): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0922/233610.383:INFO:CONSOLE(21934)] "THREE.WebGLRenderer", source: file:///three.js (21934)
+[0922/233610.607:WARNING:angle_platform_impl.cc(59)] compileToBinary(228): 
+C:\fakepath(46,8-58): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(54,8-28): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0923/002249.718:WARNING:angle_platform_impl.cc(59)] compileToBinary(228): 
+C:\fakepath(29,8-58): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(37,8-28): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0923/002529.339:WARNING:angle_platform_impl.cc(59)] compileToBinary(228): 
+C:\fakepath(29,8-58): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(37,8-28): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0923/002531.831:INFO:CONSOLE(21934)] "THREE.WebGLRenderer", source: file:///three.js (21934)
+[0923/002532.072:WARNING:angle_platform_impl.cc(59)] compileToBinary(228): 
+C:\fakepath(46,8-58): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(54,8-28): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0923/002555.065:WARNING:angle_platform_impl.cc(59)] compileToBinary(228): 
+C:\fakepath(29,8-58): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(37,8-28): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0923/002555.340:INFO:CONSOLE(21934)] "THREE.WebGLRenderer", source: file:///three.js (21934)
+[0923/002555.704:WARNING:angle_platform_impl.cc(59)] compileToBinary(228): 
+C:\fakepath(46,8-58): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(54,8-28): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0923/002821.846:WARNING:angle_platform_impl.cc(59)] compileToBinary(228): 
+C:\fakepath(29,8-58): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(37,8-28): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0923/002822.021:INFO:CONSOLE(21934)] "THREE.WebGLRenderer", source: file:///three.js (21934)
+[0923/002822.350:WARNING:angle_platform_impl.cc(59)] compileToBinary(228): 
+C:\fakepath(46,8-58): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(54,8-28): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0923/002921.952:WARNING:angle_platform_impl.cc(59)] compileToBinary(228): 
+C:\fakepath(29,8-58): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(37,8-28): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0923/002922.018:INFO:CONSOLE(21934)] "THREE.WebGLRenderer", source: file:///three.js (21934)
+[0923/002922.448:WARNING:angle_platform_impl.cc(59)] compileToBinary(228): 
+C:\fakepath(46,8-58): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(54,8-28): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0923/003003.255:WARNING:angle_platform_impl.cc(59)] compileToBinary(228): 
+C:\fakepath(29,8-58): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(37,8-28): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0923/003003.316:INFO:CONSOLE(21934)] "THREE.WebGLRenderer", source: file:///three.js (21934)
+[0923/003003.588:WARNING:angle_platform_impl.cc(59)] compileToBinary(228): 
+C:\fakepath(46,8-58): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(54,8-28): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0923/003016.958:WARNING:angle_platform_impl.cc(59)] compileToBinary(228): 
+C:\fakepath(46,8-58): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(54,8-28): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0923/004222.468:WARNING:angle_platform_impl.cc(59)] compileToBinary(228): 
+C:\fakepath(29,8-58): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(37,8-28): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0923/004222.832:INFO:CONSOLE(21934)] "THREE.WebGLRenderer", source: file:///three.js (21934)
+[0923/004222.959:INFO:CONSOLE(2)] "Failed to load file:///mesh.json: Cross origin requests are only supported for protocol schemes: http, data, chrome, chrome-extension, https.", source: file:///jquery-3.3.1.min.js (2)
+[0923/004223.086:WARNING:angle_platform_impl.cc(59)] compileToBinary(228): 
+C:\fakepath(46,8-58): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(54,8-28): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0923/011329.307:WARNING:angle_platform_impl.cc(59)] compileToBinary(228): 
+C:\fakepath(29,8-58): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(37,8-28): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0923/011329.450:INFO:CONSOLE(21934)] "THREE.WebGLRenderer", source: file:///three.js (21934)
+[0923/011329.800:WARNING:angle_platform_impl.cc(59)] compileToBinary(228): 
+C:\fakepath(46,8-58): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(54,8-28): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0923/134409.051:WARNING:angle_platform_impl.cc(59)] compileToBinary(228): 
+C:\fakepath(29,8-58): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(37,8-28): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0923/134409.805:INFO:CONSOLE(21934)] "THREE.WebGLRenderer", source: file:///three.js (21934)
+[0923/134410.342:WARNING:angle_platform_impl.cc(59)] compileToBinary(228): 
+C:\fakepath(46,8-58): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(54,8-28): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0923/134433.024:WARNING:angle_platform_impl.cc(59)] compileToBinary(228): 
+C:\fakepath(29,8-58): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(37,8-28): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0923/134433.247:INFO:CONSOLE(21934)] "THREE.WebGLRenderer", source: file:///three.js (21934)
+[0923/134433.626:WARNING:angle_platform_impl.cc(59)] compileToBinary(228): 
+C:\fakepath(46,8-58): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(54,8-28): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0923/164330.911:WARNING:angle_platform_impl.cc(59)] compileToBinary(228): 
+C:\fakepath(29,8-58): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(37,8-28): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0923/164331.001:INFO:CONSOLE(21934)] "THREE.WebGLRenderer", source: file:///three.js (21934)
+[0923/164331.339:WARNING:angle_platform_impl.cc(59)] compileToBinary(228): 
+C:\fakepath(46,8-58): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(54,8-28): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0923/164548.390:WARNING:angle_platform_impl.cc(59)] compileToBinary(228): 
+C:\fakepath(29,8-58): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(37,8-28): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0923/164548.422:INFO:CONSOLE(21934)] "THREE.WebGLRenderer", source: file:///three.js (21934)
+[0923/164548.638:WARNING:angle_platform_impl.cc(59)] compileToBinary(228): 
+C:\fakepath(46,8-58): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(54,8-28): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0923/164727.264:WARNING:angle_platform_impl.cc(59)] compileToBinary(228): 
+C:\fakepath(29,8-58): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(37,8-28): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0923/164727.390:INFO:CONSOLE(21934)] "THREE.WebGLRenderer", source: file:///three.js (21934)
+[0923/164727.814:WARNING:angle_platform_impl.cc(59)] compileToBinary(228): 
+C:\fakepath(46,8-58): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(54,8-28): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0923/175630.075:WARNING:angle_platform_impl.cc(59)] compileToBinary(228): 
+C:\fakepath(29,8-58): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(37,8-28): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0923/175630.394:INFO:CONSOLE(21934)] "THREE.WebGLRenderer", source: file:///three.js (21934)
+[0923/175630.857:WARNING:angle_platform_impl.cc(59)] compileToBinary(228): 
+C:\fakepath(46,8-58): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(54,8-28): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0923/175636.233:INFO:CONSOLE(29)] "Uncaught ReferenceError: varr is not defined", source: file:///index2.js (29)
+[0923/175640.355:INFO:CONSOLE(29)] "Uncaught ReferenceError: varr is not defined", source: file:///index2.js (29)
+[0923/175641.741:INFO:CONSOLE(29)] "Uncaught ReferenceError: varr is not defined", source: file:///index2.js (29)
+[0923/175643.094:INFO:CONSOLE(29)] "Uncaught ReferenceError: varr is not defined", source: file:///index2.js (29)
+[0923/175757.078:WARNING:angle_platform_impl.cc(59)] compileToBinary(228): 
+C:\fakepath(29,8-58): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(37,8-28): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0923/175757.505:INFO:CONSOLE(21934)] "THREE.WebGLRenderer", source: file:///three.js (21934)
+[0923/175757.847:WARNING:angle_platform_impl.cc(59)] compileToBinary(228): 
+C:\fakepath(46,8-58): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(54,8-28): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0923/175803.907:INFO:CONSOLE(29)] "Uncaught ReferenceError: varr is not defined", source: file:///index2.js (29)
+[0923/175930.849:INFO:CONSOLE(29)] "Uncaught ReferenceError: varr is not defined", source: file:///index2.js (29)
+[0923/180051.166:INFO:CONSOLE(29)] "Uncaught ReferenceError: varr is not defined", source: file:///index2.js (29)
+[0923/180252.010:INFO:CONSOLE(29)] "Uncaught ReferenceError: varr is not defined", source: file:///index2.js (29)
+[0923/180300.864:INFO:CONSOLE(29)] "Uncaught ReferenceError: varr is not defined", source: file:///index2.js (29)
+[0923/180351.829:WARNING:angle_platform_impl.cc(59)] compileToBinary(228): 
+C:\fakepath(29,8-58): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(37,8-28): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0923/180352.995:INFO:CONSOLE(21934)] "THREE.WebGLRenderer", source: file:///three.js (21934)
+[0923/180353.403:WARNING:angle_platform_impl.cc(59)] compileToBinary(228): 
+C:\fakepath(46,8-58): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(54,8-28): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0923/180404.007:INFO:CONSOLE(1)] "Uncaught SyntaxError: Unexpected token H in JSON at position 0", source: file:///index.html (1)
+[0923/180409.664:INFO:CONSOLE(63)] "6.123031769111886e-16,0,10,5.302701060230068e-16,3.0615158845559427e-16,10,3.0615158845559436e-16,5.302701060230067e-16,10,3.7491518045553436e-32,6.123031769111886e-16,10,-3.0615158845559417e-16,5.302701060230068e-16,10,-5.302701060230066e-16,3.061515884555945e-16,10,7.0710678118654755,0,7.071067811865475,6.123724356957946,3.5355339059327373,7.071067811865475,3.5355339059327386,6.123724356957945,7.071067811865475,4.329637285359678e-16,7.0710678118654755,7.071067811865475,-3.535533905932736,6.123724356957946,7.071067811865475,-6.123724356957944,3.53553390593274,7.071067811865475,10,0,0,8.660254037844387,4.999999999999999,0,5.000000000000001,8.660254037844386,0,6.123031769111886e-16,10,0,-4.999999999999998,8.660254037844387,0,-8.660254037844386,5.0000000000000036,0,7.0710678118654755,0,-7.071067811865475,6.123724356957946,3.5355339059327373,-7.071067811865475,3.5355339059327386,6.123724356957945,-7.071067811865475,4.329637285359678e-16,7.0710678118654755,-7.071067811865475,-3.535533905932736,6.123724356957946,-7.071067811865475,-6.123724356957944,3.53553390593274,-7.071067811865475,6.123031769111886e-16,0,-10,5.302701060230068e-16,3.0615158845559427e-16,-10,3.0615158845559436e-16,5.302701060230067e-16,-10,3.7491518045553436e-32,6.123031769111886e-16,-10,-3.0615158845559417e-16,5.302701060230068e-16,-10,-5.302701060230066e-16,3.061515884555945e-16,-10", source: file:///index2.js (63)
+[0923/180409.665:INFO:CONSOLE(64)] "6.123031769111886e-16,0,10,5.302701060230068e-16,3.0615158845559427e-16,10,3.0615158845559436e-16,5.302701060230067e-16,10,3.7491518045553436e-32,6.123031769111886e-16,10,-3.0615158845559417e-16,5.302701060230068e-16,10,-5.302701060230066e-16,3.061515884555945e-16,10", source: file:///index2.js (64)
+[0923/180409.669:INFO:CONSOLE(65)] "6.123031769111886e-16,0,10,5.302701060230068e-16,3.0615158845559427e-16,10,3.0615158845559436e-16,5.302701060230067e-16,10,3.7491518045553436e-32,6.123031769111886e-16,10,-3.0615158845559417e-16,5.302701060230068e-16,10,-5.302701060230066e-16,3.061515884555945e-16,10", source: file:///index2.js (65)
+[0923/180507.960:WARNING:angle_platform_impl.cc(59)] compileToBinary(228): 
+C:\fakepath(29,8-58): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(37,8-28): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0923/180508.522:INFO:CONSOLE(21934)] "THREE.WebGLRenderer", source: file:///three.js (21934)
+[0923/180509.200:WARNING:angle_platform_impl.cc(59)] compileToBinary(228): 
+C:\fakepath(46,8-58): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(54,8-28): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0923/180516.567:INFO:CONSOLE(1)] "Uncaught SyntaxError: Unexpected token H in JSON at position 0", source: file:///index.html (1)
+[0923/180518.934:INFO:CONSOLE(63)] "6.123031769111886e-16,0,10,5.302701060230068e-16,3.0615158845559427e-16,10,3.0615158845559436e-16,5.302701060230067e-16,10,3.7491518045553436e-32,6.123031769111886e-16,10,-3.0615158845559417e-16,5.302701060230068e-16,10,-5.302701060230066e-16,3.061515884555945e-16,10,7.0710678118654755,0,7.071067811865475,6.123724356957946,3.5355339059327373,7.071067811865475,3.5355339059327386,6.123724356957945,7.071067811865475,4.329637285359678e-16,7.0710678118654755,7.071067811865475,-3.535533905932736,6.123724356957946,7.071067811865475,-6.123724356957944,3.53553390593274,7.071067811865475,10,0,0,8.660254037844387,4.999999999999999,0,5.000000000000001,8.660254037844386,0,6.123031769111886e-16,10,0,-4.999999999999998,8.660254037844387,0,-8.660254037844386,5.0000000000000036,0,7.0710678118654755,0,-7.071067811865475,6.123724356957946,3.5355339059327373,-7.071067811865475,3.5355339059327386,6.123724356957945,-7.071067811865475,4.329637285359678e-16,7.0710678118654755,-7.071067811865475,-3.535533905932736,6.123724356957946,-7.071067811865475,-6.123724356957944,3.53553390593274,-7.071067811865475,6.123031769111886e-16,0,-10,5.302701060230068e-16,3.0615158845559427e-16,-10,3.0615158845559436e-16,5.302701060230067e-16,-10,3.7491518045553436e-32,6.123031769111886e-16,-10,-3.0615158845559417e-16,5.302701060230068e-16,-10,-5.302701060230066e-16,3.061515884555945e-16,-10", source: file:///index2.js (63)
+[0923/180518.938:INFO:CONSOLE(64)] "6.123031769111886e-16,0,10,5.302701060230068e-16,3.0615158845559427e-16,10,3.0615158845559436e-16,5.302701060230067e-16,10,3.7491518045553436e-32,6.123031769111886e-16,10,-3.0615158845559417e-16,5.302701060230068e-16,10,-5.302701060230066e-16,3.061515884555945e-16,10", source: file:///index2.js (64)
+[0923/180518.939:INFO:CONSOLE(65)] "6.123031769111886e-16,0,10", source: file:///index2.js (65)
+[0923/182244.278:WARNING:angle_platform_impl.cc(59)] compileToBinary(228): 
+C:\fakepath(29,8-58): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(37,8-28): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0923/182244.854:INFO:CONSOLE(21934)] "THREE.WebGLRenderer", source: file:///three.js (21934)
+[0923/182245.209:WARNING:angle_platform_impl.cc(59)] compileToBinary(228): 
+C:\fakepath(46,8-58): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(54,8-28): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0923/182305.845:INFO:CONSOLE(59)] "Uncaught TypeError: alert.box is not a function", source: file:///index2.js (59)
+[0923/182336.225:WARNING:angle_platform_impl.cc(59)] compileToBinary(228): 
+C:\fakepath(29,8-58): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(37,8-28): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0923/182336.545:INFO:CONSOLE(21934)] "THREE.WebGLRenderer", source: file:///three.js (21934)
+[0923/182337.306:WARNING:angle_platform_impl.cc(59)] compileToBinary(228): 
+C:\fakepath(46,8-58): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(54,8-28): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0923/183204.759:WARNING:angle_platform_impl.cc(59)] compileToBinary(228): 
+C:\fakepath(29,8-58): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(37,8-28): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0923/183205.043:INFO:CONSOLE(21934)] "THREE.WebGLRenderer", source: file:///three.js (21934)
+[0923/183205.473:WARNING:angle_platform_impl.cc(59)] compileToBinary(228): 
+C:\fakepath(46,8-58): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(54,8-28): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0923/183208.632:INFO:CONSOLE(1)] "Uncaught SyntaxError: Unexpected token H in JSON at position 0", source: file:///index.html (1)
+[0923/183222.617:INFO:CONSOLE(65)] "Uncaught ReferenceError: scene is not defined", source: file:///index2.js (65)
+[0923/183315.414:INFO:CONSOLE(65)] "Uncaught ReferenceError: scene is not defined", source: file:///index2.js (65)
+[0923/183554.577:INFO:CONSOLE(65)] "Uncaught ReferenceError: scene is not defined", source: file:///index2.js (65)
+[0923/183705.147:INFO:CONSOLE(65)] "Uncaught ReferenceError: scene is not defined", source: file:///index2.js (65)
+[0923/183716.949:INFO:CONSOLE(65)] "Uncaught ReferenceError: scene is not defined", source: file:///index2.js (65)
+[0923/183820.426:INFO:CONSOLE(65)] "Uncaught ReferenceError: scene is not defined", source: file:///index2.js (65)
+[0923/183955.113:WARNING:angle_platform_impl.cc(59)] compileToBinary(228): 
+C:\fakepath(29,8-58): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(37,8-28): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0923/183955.753:INFO:CONSOLE(21934)] "THREE.WebGLRenderer", source: file:///three.js (21934)
+[0923/183956.175:WARNING:angle_platform_impl.cc(59)] compileToBinary(228): 
+C:\fakepath(46,8-58): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(54,8-28): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0923/183959.825:INFO:CONSOLE(1)] "Uncaught SyntaxError: Unexpected token H in JSON at position 0", source: file:///index.html (1)
+[0923/195938.581:WARNING:angle_platform_impl.cc(59)] compileToBinary(228): 
+C:\fakepath(29,8-58): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(37,8-28): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0923/195939.591:INFO:CONSOLE(21934)] "THREE.WebGLRenderer", source: file:///three.js (21934)
+[0923/195940.029:WARNING:angle_platform_impl.cc(59)] compileToBinary(228): 
+C:\fakepath(46,8-58): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(54,8-28): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0923/195941.076:INFO:CONSOLE(27)] "Socket connected", source: file:///index2.js (27)
+[0923/195941.077:INFO:CONSOLE(1)] "Uncaught SyntaxError: Unexpected token H in JSON at position 0", source: file:///index.html (1)
+[0923/195945.838:INFO:CONSOLE(153)] "Uncaught ReferenceError: vres is not defined", source: file:///index2.js (153)
+[0923/200049.913:INFO:CONSOLE(153)] "Uncaught ReferenceError: vres is not defined", source: file:///index2.js (153)
+[0923/200127.161:WARNING:angle_platform_impl.cc(59)] compileToBinary(228): 
+C:\fakepath(29,8-58): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(37,8-28): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0923/200127.537:INFO:CONSOLE(21934)] "THREE.WebGLRenderer", source: file:///three.js (21934)
+[0923/200127.971:WARNING:angle_platform_impl.cc(59)] compileToBinary(228): 
+C:\fakepath(46,8-58): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(54,8-28): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0923/200129.599:INFO:CONSOLE(27)] "Socket connected", source: file:///index2.js (27)
+[0923/200129.620:INFO:CONSOLE(1)] "Uncaught SyntaxError: Unexpected token H in JSON at position 0", source: file:///index.html (1)
+[0923/200541.876:WARNING:angle_platform_impl.cc(59)] compileToBinary(228): 
+C:\fakepath(29,8-58): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(37,8-28): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0923/200542.899:INFO:CONSOLE(21934)] "THREE.WebGLRenderer", source: file:///three.js (21934)
+[0923/200543.211:WARNING:angle_platform_impl.cc(59)] compileToBinary(228): 
+C:\fakepath(65,10-42): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(87,10-42): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0923/200543.310:WARNING:angle_platform_impl.cc(59)] compileToBinary(228): 
+C:\fakepath(46,8-58): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(54,8-28): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0923/200544.461:INFO:CONSOLE(27)] "Socket connected", source: file:///index2.js (27)
+[0923/200544.495:INFO:CONSOLE(1)] "Uncaught SyntaxError: Unexpected token H in JSON at position 0", source: file:///index.html (1)
+[0923/200821.546:WARNING:angle_platform_impl.cc(59)] compileToBinary(228): 
+C:\fakepath(29,8-58): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(37,8-28): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0923/200821.775:INFO:CONSOLE(21934)] "THREE.WebGLRenderer", source: file:///three.js (21934)
+[0923/200822.161:WARNING:angle_platform_impl.cc(59)] compileToBinary(228): 
+C:\fakepath(46,8-58): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(54,8-28): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0923/200823.724:INFO:CONSOLE(27)] "Socket connected", source: file:///index2.js (27)
+[0923/200823.751:INFO:CONSOLE(1)] "Uncaught SyntaxError: Unexpected token H in JSON at position 0", source: file:///index.html (1)
+[0923/201147.743:WARNING:angle_platform_impl.cc(59)] compileToBinary(228): 
+C:\fakepath(29,8-58): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(37,8-28): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0923/201148.625:INFO:CONSOLE(21934)] "THREE.WebGLRenderer", source: file:///three.js (21934)
+[0923/201149.163:WARNING:angle_platform_impl.cc(59)] compileToBinary(228): 
+C:\fakepath(46,8-58): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(54,8-28): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0923/201150.339:INFO:CONSOLE(27)] "Socket connected", source: file:///index2.js (27)
+[0923/201150.358:INFO:CONSOLE(1)] "Uncaught SyntaxError: Unexpected token H in JSON at position 0", source: file:///index.html (1)
+[0923/201936.902:WARNING:angle_platform_impl.cc(59)] compileToBinary(228): 
+C:\fakepath(29,8-58): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(37,8-28): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0923/201937.562:INFO:CONSOLE(21934)] "THREE.WebGLRenderer", source: file:///three.js (21934)
+[0923/201937.772:WARNING:angle_platform_impl.cc(59)] compileToBinary(228): 
+C:\fakepath(46,8-58): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(54,8-28): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0923/201939.047:INFO:CONSOLE(27)] "Socket connected", source: file:///index2.js (27)
+[0923/201939.063:INFO:CONSOLE(1)] "Uncaught SyntaxError: Unexpected token H in JSON at position 0", source: file:///index.html (1)
+[0923/202159.479:WARNING:angle_platform_impl.cc(59)] compileToBinary(228): 
+C:\fakepath(29,8-58): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(37,8-28): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0923/202159.565:INFO:CONSOLE(21934)] "THREE.WebGLRenderer", source: file:///three.js (21934)
+[0923/202159.809:WARNING:angle_platform_impl.cc(59)] compileToBinary(228): 
+C:\fakepath(46,8-58): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(54,8-28): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0923/202201.012:INFO:CONSOLE(27)] "Socket connected", source: file:///index2.js (27)
+[0923/202201.046:INFO:CONSOLE(1)] "Uncaught SyntaxError: Unexpected token H in JSON at position 0", source: file:///index.html (1)
+[0923/202451.276:WARNING:angle_platform_impl.cc(59)] compileToBinary(228): 
+C:\fakepath(29,8-58): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(37,8-28): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0923/202451.658:INFO:CONSOLE(21934)] "THREE.WebGLRenderer", source: file:///three.js (21934)
+[0923/202451.873:WARNING:angle_platform_impl.cc(59)] compileToBinary(228): 
+C:\fakepath(46,8-58): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(54,8-28): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0923/202453.141:INFO:CONSOLE(27)] "Socket connected", source: file:///index2.js (27)
+[0923/202453.159:INFO:CONSOLE(1)] "Uncaught SyntaxError: Unexpected token H in JSON at position 0", source: file:///index.html (1)
+[0923/202732.164:WARNING:angle_platform_impl.cc(59)] compileToBinary(228): 
+C:\fakepath(29,8-58): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(37,8-28): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0923/202732.246:INFO:CONSOLE(21934)] "THREE.WebGLRenderer", source: file:///three.js (21934)
+[0923/202732.486:WARNING:angle_platform_impl.cc(59)] compileToBinary(228): 
+C:\fakepath(46,8-58): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(54,8-28): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0923/202733.786:INFO:CONSOLE(27)] "Socket connected", source: file:///index2.js (27)
+[0923/202733.801:INFO:CONSOLE(1)] "Uncaught SyntaxError: Unexpected token H in JSON at position 0", source: file:///index.html (1)
+[0923/225753.974:WARNING:angle_platform_impl.cc(59)] compileToBinary(228): 
+C:\fakepath(29,8-58): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(37,8-28): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0923/225754.940:INFO:CONSOLE(21934)] "THREE.WebGLRenderer", source: file:///three.js (21934)
+[0923/225759.930:INFO:CONSOLE(27)] "Socket connected", source: file:///index2.js (27)
+[0923/225759.935:INFO:CONSOLE(1)] "Uncaught SyntaxError: Unexpected token H in JSON at position 0", source: file:///index.html (1)
+[0923/225800.432:WARNING:angle_platform_impl.cc(59)] compileToBinary(228): 
+C:\fakepath(46,8-58): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(54,8-28): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0924/194222.010:WARNING:angle_platform_impl.cc(59)] compileToBinary(228): 
+C:\fakepath(29,8-58): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(37,8-28): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0924/194223.918:INFO:CONSOLE(21934)] "THREE.WebGLRenderer", source: file:///C:/Users/formy/Desktop/CAD_WebGL/build/three.js (21934)
+[0924/194226.165:INFO:CONSOLE(103)] "Socket connected", source: file:///C:/Users/formy/Desktop/CAD_WebGL/index2.js (103)
+[0924/194226.176:INFO:CONSOLE(1)] "Uncaught SyntaxError: Unexpected token H in JSON at position 0", source: file:///C:/Users/formy/Desktop/CAD_WebGL/index.html (1)
+[0924/194226.236:WARNING:angle_platform_impl.cc(59)] compileToBinary(228): 
+C:\fakepath(46,8-58): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(54,8-28): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0924/194348.022:WARNING:angle_platform_impl.cc(59)] compileToBinary(228): 
+C:\fakepath(29,8-58): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(37,8-28): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0924/194348.760:INFO:CONSOLE(21934)] "THREE.WebGLRenderer", source: file:///C:/Users/formy/Desktop/CAD_WebGL/build/three.js (21934)
+[0924/194349.859:WARNING:angle_platform_impl.cc(59)] compileToBinary(228): 
+C:\fakepath(46,8-58): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(54,8-28): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0924/194350.442:INFO:CONSOLE(103)] "Socket connected", source: file:///C:/Users/formy/Desktop/CAD_WebGL/index2.js (103)
+[0924/194350.528:INFO:CONSOLE(1)] "Uncaught SyntaxError: Unexpected token H in JSON at position 0", source: file:///C:/Users/formy/Desktop/CAD_WebGL/index.html (1)
+[0924/195310.128:WARNING:angle_platform_impl.cc(59)] compileToBinary(228): 
+C:\fakepath(29,8-58): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(37,8-28): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0924/195310.614:INFO:CONSOLE(21934)] "THREE.WebGLRenderer", source: file:///C:/Users/formy/Desktop/CAD_WebGL/build/three.js (21934)
+[0924/195312.144:WARNING:angle_platform_impl.cc(59)] compileToBinary(228): 
+C:\fakepath(46,8-58): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(54,8-28): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0924/195312.604:INFO:CONSOLE(103)] "Socket connected", source: file:///C:/Users/formy/Desktop/CAD_WebGL/index2.js (103)
+[0924/195312.658:INFO:CONSOLE(148)] "recieve massege : Hello client!", source: file:///C:/Users/formy/Desktop/CAD_WebGL/index2.js (148)
+[0924/200039.097:WARNING:angle_platform_impl.cc(59)] compileToBinary(228): 
+C:\fakepath(29,8-58): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(37,8-28): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0924/200039.390:INFO:CONSOLE(21934)] "THREE.WebGLRenderer", source: file:///C:/Users/formy/Desktop/CAD_WebGL/build/three.js (21934)
+[0924/200039.796:WARNING:angle_platform_impl.cc(59)] compileToBinary(228): 
+C:\fakepath(46,8-58): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(54,8-28): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0924/200041.132:INFO:CONSOLE(103)] "Socket connected", source: file:///C:/Users/formy/Desktop/CAD_WebGL/index2.js (103)
+[0924/200041.245:INFO:CONSOLE(148)] "recieve massege : Hello client!", source: file:///C:/Users/formy/Desktop/CAD_WebGL/index2.js (148)
+[0924/200157.624:WARNING:angle_platform_impl.cc(59)] compileToBinary(228): 
+C:\fakepath(29,8-58): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(37,8-28): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0924/200157.944:INFO:CONSOLE(21934)] "THREE.WebGLRenderer", source: file:///C:/Users/formy/Desktop/CAD_WebGL/build/three.js (21934)
+[0924/200158.364:WARNING:angle_platform_impl.cc(59)] compileToBinary(228): 
+C:\fakepath(46,8-58): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(54,8-28): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0924/200159.835:INFO:CONSOLE(103)] "Socket connected", source: file:///C:/Users/formy/Desktop/CAD_WebGL/index2.js (103)
+[0924/200159.863:INFO:CONSOLE(149)] "recieve massege : Hello client!", source: file:///C:/Users/formy/Desktop/CAD_WebGL/index2.js (149)
+[0928/133946.308:WARNING:angle_platform_impl.cc(59)] compileToBinary(228): 
+C:\fakepath(29,8-58): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(37,8-28): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0928/134638.064:WARNING:angle_platform_impl.cc(59)] compileToBinary(228): 
+C:\fakepath(29,8-58): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(37,8-28): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0928/134638.443:INFO:CONSOLE(21934)] "THREE.WebGLRenderer", source: file:///C:/Users/formy/Documents/GitHub/3D_WebGL/build/three.js (21934)
+[0928/134639.240:INFO:CONSOLE(0)] "Access to Image at 'file:///C:/Users/formy/Documents/GitHub/3D_WebGL/examples/textures/tri_pattern.jpg' from origin 'null' has been blocked by CORS policy: Invalid response. Origin 'null' is therefore not allowed access.", source: file:///C:/Users/formy/Documents/GitHub/3D_WebGL/index.html (0)
+[0928/134639.305:WARNING:angle_platform_impl.cc(59)] compileToBinary(228): 
+C:\fakepath(46,8-58): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(54,8-28): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0928/134640.088:INFO:CONSOLE(129)] "Socket connected", source: file:///C:/Users/formy/Documents/GitHub/3D_WebGL/index2.js (129)
+[0928/134640.143:INFO:CONSOLE(183)] "recieve massege : Hello client!", source: file:///C:/Users/formy/Documents/GitHub/3D_WebGL/index2.js (183)
+[1011/235033.625:WARNING:angle_platform_impl.cc(59)] compileToBinary(228): 
+C:\fakepath(29,8-58): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(37,8-28): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+

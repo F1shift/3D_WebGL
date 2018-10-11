@@ -1,0 +1,26 @@
+﻿<Window x:Class="WpfApp2.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:cefSharp="clr-namespace:CefSharp.WinForms;assembly=CefSharp.WinForms"
+        xmlns:local="clr-namespace:WpfApp2"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="720" Width="1280">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="120"/>
+            <ColumnDefinition Width="1*"/>
+        </Grid.ColumnDefinitions>
+        <StackPanel>
+            <Label>垂直レゾルーション</Label>
+            <TextBox x:Name="tb_vres">5</TextBox>
+            <Label>水平レゾルーション</Label>
+            <TextBox x:Name="tb_hres">6</TextBox>
+            <Button Click="Button_Click">リフラッシュ</Button>
+        </StackPanel>
+        <WindowsFormsHost x:Name="wfh" Grid.Column="1" Margin="0,0,0,0.5">
+
+        </WindowsFormsHost>
+    </Grid>
+</Window>
