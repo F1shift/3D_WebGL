@@ -10,7 +10,7 @@
             "request": "launch",
             "name": "Launch Chrome against localhost",
             //"url": "http://localhost",
-            "url": "file:///C:/Data/GitHub/3D_WebGL/Translator.html",
+            "url": "file:///C:/Data/GitHub/3D_WebGL/blobtest.html",
             "webRoot": "${workspaceFolder}"
         }
     ]

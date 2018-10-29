@@ -1,0 +1,47 @@
+<!doctype html>
+<html lang="ja">
+    <head>
+        <meta charset="utf-8">
+        <title>Download Sample</title>
+        <script src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
+    </head>
+    <body>
+        <script type='text/javascript'>
+            function handleDownload() {
+                var content = 'あいうえお';
+                for(var i = 0; i < 100000; i++)
+                {
+                    content += "a";
+                }
+                var blob = new Blob([ content ], { "type" : "text/plain" });
+
+                if (window.navigator.msSaveBlob) { 
+                    window.navigator.msSaveBlob(blob, "test.txt"); 
+
+                    // msSaveOrOpenBlobの場合はファイルを保存せずに開ける
+                    window.navigator.msSaveOrOpenBlob(blob, "test.txt"); 
+                } else {
+                    document.getElementById("download").href = window.URL.createObjectURL(blob);
+                }
+            }
+
+            function openFile()
+            {
+                var dom = $("#selectFile")[0];
+                var reader = new FileReader();
+                reader.onload = (function(theFile) 
+                {
+                    var contents = theFile.target.result;
+                    alert(contents);
+
+                });
+
+                reader.readAsText(dom.files[0]);
+                
+            }
+        </script>
+        <a id="download" href="#" download="test.txt" onclick="handleDownload()">ダウンロード</a>
+        <input id="selectFile" type="file"/>
+        <input type="button" onclick="openFile()" value="read"/>
+    </body>
+</html>
