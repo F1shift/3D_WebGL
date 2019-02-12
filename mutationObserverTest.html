@@ -1,0 +1,44 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+</head>
+<body>
+    <div class="container">
+
+        <h1>attributes</h1>
+
+        <h2>ノードの属性の変更を監視</h2>
+        <div class="well">
+            <a href="#" class="attributes">attributes</a>
+            <input class="attributes1" id="input" type="text" value="bbb"/>
+        </div>
+        <p class="bs-component">
+            <input type="button" class="changeHref btn btn-primary" value="changeHref"/>
+            <input type="button"  class="changeType btn btn-primary" value="changeType"/>
+            <input type="button"  class="changeClass btn btn-primary" value="changeClass"/>
+            <input type="button" onclick="$('#input').attr('value', 'setAttribute')"; />
+        </p>
+    </div>
+    <script>
+        
+        var observer = new MutationObserver(function (MutationRecords, MutationObserver) {
+            if (true) {
+                alert(MutationRecords);
+            }
+        });
+
+        observer.observe($('body')[0], { attributes: true, childList: true, characterData: true});
+
+        $('.changeHref').on('click', function () {
+            $('.attributes').attr('href', 'changeAttributes');
+        });
+        $('.changeType').on('click', function () {
+            $('#input').attr('type', 'button');
+        });
+        $('.changeClass').on('click', function () {
+            $('#input').addClass('Class1');
+        });
+    </script>
+</body>
+</html>

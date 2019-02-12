@@ -1,3 +1,4 @@
+
 window.addEventListener('DOMContentLoaded', init);
 
 var mesh;
@@ -87,8 +88,8 @@ function init() {
 
     //Read from textureData.js to prevent CROS error.
     mouseOverTexture = loader.load(greyWhiteCheckeredData, onLoad);
-    earthTexture = loader.load(earthTextureData, onLoad);
-    moonTexture = loader.load(moonTextureData, onLoad);
+    earthTexture = loader.load("examples/textures/planets/earth_atmos_4096.jpg", onLoad);
+    moonTexture = loader.load("examples/textures/planets/moon_1024.jpg",onLoad);
     earthTexture.rotation = Math.PI / 2;
     moonTexture.rotation = Math.PI / 2;
     mouseOverMaterial = new THREE.MeshStandardMaterial({ map: mouseOverTexture, roughness: 1 });
@@ -218,7 +219,7 @@ function init() {
     //#endregion
 
     //#region デフォルト球体を加入する
-    mesh = GetPresetMesh2(50, 100, 150, 0, 0, 0, 0xffffff, true, 75);
+    mesh = GetPresetMesh2(50, 100, 150, 0, 0, 0, 0xffffff, false, 75);
     mesh2 = GetPresetMesh2(50, 100, 50, -400, -100, 0, 0xFFFFFF, false, -100);
     mesh.material.map = earthTexture;
     mesh2.material.map = moonTexture;
@@ -476,6 +477,18 @@ function GetPresetMesh2(vres, hres, r, x, y, z, color, clip, clipDis) {
         
 
         const material = new THREE.MeshStandardMaterial({
+            color: 0x000000,
+            roughness: 0,
+            opacity: 1,
+            transparent: true,
+            visible: true,
+            clippingPlanes:[plane],
+            clipShadows: true,
+            //side: THREE.DoubleSide,
+            wireframe: true
+        });
+
+        const material2 = new THREE.MeshStandardMaterial({
             color: color,
             roughness: 0,
             opacity: 1,
@@ -485,7 +498,10 @@ function GetPresetMesh2(vres, hres, r, x, y, z, color, clip, clipDis) {
             clipShadows: true,
             side: THREE.DoubleSide
         });
-        mesh = new THREE.Mesh(geometry, material);
+        geometry.clearGroups();
+        geometry.addGroup(0, indices.length, 0);
+        geometry.addGroup(0, indices.length, 1);
+        mesh = new THREE.Mesh(geometry, [material, material2]);
         // const material2 = new THREE.MeshStandardMaterial({
         //     color: color,
         //     roughness: 0,

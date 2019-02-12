@@ -12,6 +12,7 @@ using System.Windows.Media;
 using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
+using CefSharp;
 using CefSharp.WinForms;
 using System.Net;
 using System.Net.Sockets;
@@ -31,11 +32,21 @@ namespace WpfApp2
 
         public MainWindow()
         {
-            InitializeComponent();
+            
 
+            InitializeComponent();
+            CefSettings settings = new CefSettings();
+            settings.RegisterScheme(new CefSharp.CefCustomScheme()
+            {
+                SchemeName = "local",
+                SchemeHandlerFactory = new LocalSchemeHandlerFactory(@"Z:\Drive\GitHub")
+            });
+            Cef.Initialize(settings);
+            browser = new ChromiumWebBrowser();
             this.wfh.Child = browser;
 
-            this.browser.Load("file:///C:/Users/formy/Documents/GitHub/3D_WebGL/index.html");
+            //this.browser.Load(@"file:Z:\Drive\GitHub\3D_WebGL\index.html");
+            this.browser.Load("local://3D_WebGL");
 
             int port = 8080;
             wsServer = new WebSocketServer();
